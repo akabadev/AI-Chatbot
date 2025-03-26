@@ -4,7 +4,7 @@ import { Analytics } from '@vercel/analytics/react';
 
 export const metadata: Metadata = {
   title: 'AI CHATBOT',
-  description: 'Chatbot AI by Abdou Kaba ',
+  description: ' AI Chatbot by Abdou Kaba ',
 }
 
 export default function RootLayout({
